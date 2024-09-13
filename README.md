@@ -16,5 +16,8 @@ This project is **not responsive**, meaning it may not display properly on all d
 - **HTML**
 - **CSS**
 
+## Live Demo
+A live demo of this project can be accessed at [Live-Website](https://2024-ui-net-flix.netlify.app/)
+
 ## Acknowledgements
 - Inspired by the Netflix website for educational purposes.
